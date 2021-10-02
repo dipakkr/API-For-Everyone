@@ -243,6 +243,32 @@ Example :
 - If the value is a string, it is mentioned in double-quotes.
 - A JSON value can be an object, array, number, string, true, false, or null, and JSON structure can be nested up to any level.
 
+<style>
+.button{
+    width: 252px;
+    height: 60px;
+    border-radius: 5px;
+    border: 1px solid #f0544c;
+    background-color: #f7190d;
+    color: #fff;
+    display: -webkit-inline-box;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    text-align:center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: 500;
+    letter-spacing: -0.66px;
+}
+
+</style>
+
 <div style="display:flex; justify-content:center;">
-<button> Buy Now </button>
+<div class="button"> Buy Now </div>
 </div>
