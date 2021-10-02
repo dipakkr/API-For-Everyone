@@ -1,7 +1,5 @@
 
 
-# API For Everyone
-
 If you are college student or working professional, aspiring to get into tech or want to upskill yourself. API is one of most important skill to learn about. 
 
 Why ? Because in the age of cloud computing most of application feature depends on an APIs whether it is inhouse or 3rd Party API. 
